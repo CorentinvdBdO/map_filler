@@ -32,6 +32,8 @@ For debug, launch GIMP from a terminal, so you can see the error logs.
 
 # Usage
 
+[![Video demo](https://img.youtube.com/vi/hSYPih9-BDE/0.jpg)](https://www.youtube.com/watch?v=hSYPih9-BDE)
+
 Edit the csv file to set your paths:
 ```
 provinces_csv = "path/to/your/provinces.csv" 
