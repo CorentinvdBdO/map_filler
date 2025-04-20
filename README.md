@@ -4,6 +4,8 @@ GIMP plugin to create a CK3 province map
 
 This plug in is very ALPHA. It edits the csv files directly without verifications so always use it on a copy of your mod.
 
+It has been developped for Gimp 3.0.0. It may work on other versions.
+
 ## Scope
 
 Made for CK3. It can be expanded to other paradox GS games with the same province system, but not there yet.
